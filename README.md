@@ -2,14 +2,14 @@
 ## Building Your Ship While Staying Afloat
 
 ## Overview
-The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
+The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations and/or adjust to shiting priorities while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
 
 ## Core Principles
 
 1. **Practical Realism**: Acknowledge that teams must both "tread water" (handle maintenance and interruptions) and "build the ship" (develop new features/products)
 2. **Sustainable Pace**: Ensure no team member treads water for too long, preventing burnout
 3. **Deliberate Trade-offs**: Making and communicating explicit decisions about where to invest in quality vs. where to make pragmatic compromises to reach shore (go-live)
-4. **Current Navigation**: Develop strategies to navigate unpredictable currents (shifting priorities, executive decisions, market changes) that can push the team off course
+4. **Current Navigation**: Develop strategies to navigate unpredictable currents (shifting priorities, executive decisions, market changes) that can drown the team or push off course
 
 ## Key Components
 
@@ -25,7 +25,7 @@ A visual representation of the product/project showing:
 - Current construction/completion status
 - Distance to shore (time to launch/completion)
 
-### 3. Work Status Board
+### 3. Status Board
 A kanban-style board with columns:
 - **Landed**: Completed work
 - **Ready**: Ready to QA/review
@@ -34,14 +34,14 @@ A kanban-style board with columns:
 - **Conceptual Designs**: Acknowledged but not immediate
 - **In the depths/Underwater**: Explicitly deprioritized
 
-### 4. Daily Level Check
-Brief standup focusing on:
+### 4. Level Check
+Brief (Daily) standup focusing on:
 - Who needs immediate help / drowning (treading assistance)
 - Current strength assessment (identifying new currents)
 - Critical building blockers
 - Coordination on shared components
 
-### 5. Construction Planning
+### 5. Planning Session/Meeting
 Bi-weekly session to:
 - Review treading vs. building capacity
 - Assess impact of recent currents and adjust course
@@ -52,7 +52,7 @@ Bi-weekly session to:
 
 ### 6. Journey Log
 Regular reporting showing:
-- Progress on key ship components
+- Progress on key components
 - Quality compromises made
 - Treading vs. building time ratio
 - Current impact assessment (how much time/direction was affected by currents)
@@ -67,7 +67,7 @@ Each component's quality requirements are defined across these key dimensions:
 - Testing requirements
 - Documentation standards
 
-### Quality Tiers
+### Quality Tiers (examples)
 
 1. **Gold Standard** (Tier 1)
    - Zero tolerance for P0-P2 issues at launch
