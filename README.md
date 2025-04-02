@@ -2,7 +2,7 @@
 ## Building Your Ship While Staying Afloat
 
 ## Overview
-The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations and/or respond to shifting priorties while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
+The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
 
 ## Core Principles
 
@@ -13,11 +13,10 @@ The Treading Water methodology acknowledges the reality of teams who must simult
 
 ## Key Components
 
-### 1. Work Categorization
-All work is explicitly categorized as:
-- **Treading Activities** (eg. 40%): Maintenance, bugs, support, emergencies, technical debt, code review
+### 1. Dual Work Categorization
+All work is explicitly categorized as either:
+- **Treading Activities** (eg. 40%): Maintenance, bugs, support, emergencies, technical debt, code review, navigating currents (responding to shifting priorities)
 - **Building Activities** (eg. 60%): New features, major refactors, planned improvements to facilitate ease or stability of features
-- **Current Management** (eg. 10% buffer): Time reserved for navigating unexpected currents and riptides (shifting priorities, executive decisions, urgent market responses)
 
 ### 2. The Blueprint
 A visual representation of the product/project showing:
@@ -38,7 +37,7 @@ A kanban-style board with columns:
 ### 4. Daily Level Check
 Brief standup focusing on:
 - Who needs immediate help / drowning (treading assistance)
-- Current strength assessment (identifying new currents or riptides)
+- Current strength assessment (identifying new currents)
 - Critical building blockers
 - Coordination on shared components
 
@@ -57,7 +56,6 @@ Regular reporting showing:
 - Quality compromises made
 - Treading vs. building time ratio
 - Current impact assessment (how much time/direction was affected by currents)
-- Riptide occurrences and their impact
 - Updated shore ETA (estimated time to arrival)
 
 ## Component Quality Tiering
@@ -122,11 +120,10 @@ The methodology encourages teams to be strategic about quality tier assignments:
 ### 2. Life Guard (Scrum Master equivalent)
 - Facilitates ceremonies and removes obstacles
 - Ensures balance between treading and building
-- Identifies riptides early and helps the team respond
+- Identifies currents early and helps the team adjust
 - Protects team sustainability
 
 ### 3. Navigator (optional Technical Lead role)
-- Maps currents and anticipates their impact
 - Advises on technical course adjustments
 - Helps interpret organizational currents for the team
 
@@ -134,7 +131,6 @@ The methodology encourages teams to be strategic about quality tier assignments:
 - Self-organize to balance treading and building work
 - Signal when they're struggling to stay afloat
 - Contribute to quality and scope decisions
-- Help navigate smaller currents within their areas
 
 ## The Treading Water Manifesto
 
@@ -161,7 +157,7 @@ the right, we value the items on the left more.
 
 2. Welcome changing priorities and requirements, even late in development. Treading Water processes harness currents rather than resisting them.
 
-3. Recognize riptides early and respond with transparency about their impact on timelines and quality.
+3. Recognize strong currents early and respond with transparency about their impact on timelines and quality.
 
 4. Deliver working software regularly, acknowledging that building a ship while treading water requires strategic compromises.
 
@@ -201,7 +197,7 @@ the right, we value the items on the left more.
 | Shore | The goal (go-live, launch, delivery milestone) |
 | Blueprint | Product roadmap and requirements |
 | Currents | External forces that shift direction (changing priorities, market conditions) |
-| Riptide | Sudden high-priority request requiring immediate attention mid-sprint |
+| Rip Current | Particularly strong current (major priority shift, executive decisions) |
 | Below Waterline | Explicitly deprioritized items |
 | Quality Tier | Defined quality standard for components (Gold, Standard, Minimum Viable, Experimental) |
 | Quality Compromise | Documented technical debt or scope reduction |
@@ -211,7 +207,6 @@ the right, we value the items on the left more.
 - Teams with significant maintenance burden alongside new development
 - Projects with high uncertainty and changing priorities
 - Organizations with frequent "currents" from executive decisions (build/buy shifts, strategic pivots)
-- Teams experiencing regular "riptides" of urgent mid-sprint requests
 - Organizations with resource constraints but ambitious goals
 - Startups and teams building MVP (Minimum Viable Product) solutions
 - Recovery situations requiring both stability and forward progress
