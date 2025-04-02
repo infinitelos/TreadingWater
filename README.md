@@ -2,7 +2,7 @@
 ## Building Your Ship While Staying Afloat
 
 ## Overview
-The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
+The Treading Water methodology acknowledges the reality of teams who must simultaneously maintain day-to-day operations and/or respond to shifting priorties while building something substantial. Like a team treading water while constructing a ship, this approach embraces resource constraints, shifting priorities, and the need to balance immediate survival with long-term success.
 
 ## Core Principles
 
